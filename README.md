@@ -52,6 +52,9 @@
 ![管理员-添加进货信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081613727.jpg)
 
 ![管理员-进货查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208081613035.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：药店
 
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
